@@ -1,0 +1,33 @@
+body {
+  background-color: #F4EEFF;
+}
+
+h1{
+  color: #A6B1E1;
+}
+
+h3{
+  color: #A6B1E1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #F6C3E5;
+  border-width: 5px;
+  width: 5%
+}
+
+.contact{
+  text-align: center;
+}
+
+.hobbies{
+  display: inline;
+  padding: 0 2em 0 0;
+}
+
+.contactme{
+  display: inline;
+    padding: 0 2em 0 0;
+}
